@@ -1,0 +1,27 @@
+{
+  "name": "2025-09-01-microedu-streamlined-management-platform-for-micro",
+  "version": "1.0.0",
+  "description": "MicroEdu: Streamlined Management Platform for Microschools",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live"
+  },
+  "keywords": [
+    "ai-generated",
+    "landing-page",
+    "idea2mvp",
+    "azure-openai",
+    "educational-technology-(edtech)"
+  ],
+  "author": "Idea2MVP AI System",
+  "license": "MIT",
+  "homepage": "https://dailyidea.AIFirstPartner.com/daily-ideas/2025-09-01/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCSEdwin/2025-09-01-microedu-streamlined-management-platform-for-micro.git"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
